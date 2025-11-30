@@ -67,10 +67,9 @@ export default function OurStoryPage() {
 
           <div className="prose prose-lg md:prose-xl mx-auto">
             <p className="text-lg md:text-xl lg:text-2xl font-sans leading-relaxed text-foreground">
-              We believe every preloved item carries a story - and deserves a future. Our mission is to help sellers
-              move beyond "post and pray" to predictive discovery, connecting treasures with the people meant to love
-              them next. Through intelligent matching, we honor both the history held within vintage finds and the new
-              stories waiting to be written.
+              We believe the best things are found, not manufactured. The best prices are fair, not fought over. And the
+              best marketplace is owned by the people who make it thrive. ThriftShopper is recommerce reimagined:
+              intelligent, human, and built for connection.
             </p>
           </div>
 
