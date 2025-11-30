@@ -93,7 +93,7 @@ export default function AboutPage() {
           <div className="mt-12 p-6 bg-muted/30 rounded-lg">
             <h2 className="text-xl font-serif font-semibold mb-4">Questions?</h2>
             <p className="text-muted-foreground">
-              For any questions about ThriftShopper AI, please{" "}
+              For any questions about ThriftShopper, please{" "}
               <button
                 onClick={() => {
                   const contactFormUrl = process.env.NEXT_PUBLIC_CONTACT_FORM_URL || "#"
@@ -104,6 +104,14 @@ export default function AboutPage() {
                 contact us
               </button>
               .
+            </p>
+            <p className="text-muted-foreground mt-4">
+              Or email Connie directly at{" "}
+              <a href="mailto:connie@thriftshopper.com" className="text-primary hover:underline">
+                connie@thriftshopper.com
+              </a>
+              . She'd love to hear from you. And please let us know if you'd like to join the beta test roll out this
+              month, December.
             </p>
           </div>
         </div>

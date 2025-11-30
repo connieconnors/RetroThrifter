@@ -27,11 +27,20 @@ const blogPosts = [
   {
     id: 3,
     title: "Giving Thrift Shops",
-    date: "October 23, 2025",
+    date: "November 10, 2025",
     image: "/connie-food-pantry.jpg",
     description:
       "I volunteer at my church thrift shop and we use the proceeds to help purchase food for our food pantry. We offer food to more than 75 families weekly. Often times you'll find real treasures in charitable shops, sometimes buried in back corners. I'll soon post a video tour of our church shop to give you an idea. For many charitable shops, prices are negotiable but take note of where your dollars are going. This is especially true for your donations: think, is this something a shop can sell?",
     keywords: ["charity", "thrift shop", "food pantry", "donations", "community", "volunteer"],
+  },
+  {
+    id: 4,
+    title: "You Never Know...",
+    date: "November 17, 2025",
+    image: "/mug_set.jpg",
+    description:
+      "Thrift shops that accept donations (mine does as our proceeds go directly to our food pantry) are full of surprises, and stories. There is no shortage of learning and history, and fabulous stories (if I only had more time when customers are shopping to hear them all!) and sometimes you take the good with the bad. 'Could you have just washed the goblets before donating, just a bit?' I say sometimes to myself. Bet you didn't know that these mugs are vintage Fire-King Glamite coffee mugs in a carrier. Look that one up! 1950-1959.",
+    keywords: ["vintage", "Fire-King", "thrift shop", "donations", "history", "1950s"],
   },
 ]
 
