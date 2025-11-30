@@ -67,9 +67,12 @@ export default function HomePage() {
             <p className="text-lg md:text-2xl font-serif italic mb-8 tracking-tight" style={{ color: "#DAA520" }}>
               the magic of discovery<span className="text-xs md:text-sm align-super">™</span>
             </p>
-            <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
-              Be among the first to experience a revolutionary, easy-to-use platform that connects buyers and sellers
-              through intelligent matching and predictive discovery.
+            <p className="text-xl text-muted-foreground mb-2 max-w-2xl mx-auto font-semibold">
+              Every treasure has a story. Find yours.
+            </p>
+            <p className="text-xl text-muted-foreground mb-8 max-w-3xl mx-auto">
+              Discover one-of-a-kind pieces where the magic isn't just what you find, it's the human connection behind
+              it. Welcome to recommerce that feels like coming home.
             </p>
             <div className="flex flex-col items-center gap-4">
               <a
@@ -92,12 +95,13 @@ export default function HomePage() {
               <p
                 style={{
                   marginTop: "0.5rem",
-                  fontSize: "0.85rem",
-                  color: "#555",
+                  fontSize: "1rem",
+                  color: "#000080",
                   fontFamily: "'Source Sans Pro', sans-serif",
+                  fontWeight: "bold",
                 }}
               >
-                <em>It's free to join!</em>
+                It's free to join. Beta launch coming in January.
               </p>
             </div>
           </div>
