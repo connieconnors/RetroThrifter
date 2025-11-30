@@ -124,9 +124,6 @@ export default function OurStoryPage() {
               <a href="/about" className="hover:opacity-80 transition-opacity">
                 About Us
               </a>
-              <a href="/how-it-works" className="hover:opacity-80 transition-opacity">
-                Why & How it Works
-              </a>
               <button
                 onClick={() => {
                   const contactFormUrl = process.env.NEXT_PUBLIC_CONTACT_FORM_URL || "#"

@@ -159,9 +159,6 @@ export default function BlogPage() {
               <a href="/about" className="hover:opacity-80 transition-opacity">
                 About Us
               </a>
-              <a href="/how-it-works" className="hover:opacity-80 transition-opacity">
-                Why & How it Works
-              </a>
               <a href="/blog" className="hover:opacity-80 transition-opacity">
                 Blog
               </a>

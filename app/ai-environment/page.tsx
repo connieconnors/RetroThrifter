@@ -208,9 +208,6 @@ export default function AIEnvironmentPage() {
               <a href="/about" className="hover:opacity-80 transition-opacity">
                 About Us
               </a>
-              <a href="/how-it-works" className="hover:opacity-80 transition-opacity">
-                Why & How it Works
-              </a>
               <button
                 onClick={() => window.open(process.env.NEXT_PUBLIC_CONTACT_FORM_URL || "#", "_blank")}
                 className="hover:opacity-80 transition-opacity cursor-pointer"

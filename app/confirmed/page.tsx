@@ -52,13 +52,7 @@ export default function ConfirmedPage() {
             <p className="text-muted-foreground mb-6">In the meantime, explore what makes ThriftShopper special</p>
 
             <div className="flex flex-wrap gap-4 justify-center">
-              <a
-                href="/how-it-works"
-                className="inline-block px-6 py-3 rounded-lg font-semibold transition-colors"
-                style={{ backgroundColor: "#000080", color: "#fff" }}
-              >
-                How It Works
-              </a>
+              {/* How It Works button removed as page was deleted */}
               <a
                 href="/for-buyers"
                 className="inline-block px-6 py-3 border-2 rounded-lg font-semibold transition-colors"
